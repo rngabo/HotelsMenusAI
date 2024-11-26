@@ -1,0 +1,417 @@
+/* static/css/styles.css */
+
+/* Reset some default styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(135deg, #ece9e6, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.chatbot-window {
+    width: 350px; /* Fixed width */
+    height: 800px; /* Fixed height */
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.chatbot-header {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #fff;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.chatbot-header h2 {
+    font-size: 1.2em;
+}
+
+.close-btn {
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.chatbot-messages {
+    flex: 1;
+    padding: 5px;
+    background: #f5f5f5;
+    overflow-y: auto;
+}
+
+.message {
+    margin-bottom: 15px;
+    max-width: 100%; /* Ensure messages do not exceed 80% of the container's width */
+    padding: 10px 15px;
+    border-radius: 20px;
+    position: relative;
+    animation: fadeIn 0.3s ease-in-out;
+    word-wrap: break-word; /* Ensure long words wrap */
+    overflow-wrap: break-word;
+}
+
+.bot-message {
+    background: #e2e2e2;
+    align-self: flex-start;
+}
+
+.user-message {
+    background: #1f9091;
+    color: #fff;
+    align-self: flex-end;
+}
+
+.chatbot-input {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    background: #fafafa;
+}
+
+.chatbot-input input {
+    flex: 1;
+    padding: 10px 15px;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    outline: none;
+    transition: border 0.3s;
+}
+
+.chatbot-input input:focus {
+    border-color: #667eea;
+}
+
+.chatbot-input button {
+    background: #667eea;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    margin-left: 10px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.chatbot-input button:hover {
+    background: #5a67d8;
+}
+
+.typing-indicator {
+    padding: 10px;
+    font-style: italic;
+    color: #555;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* Ensure that the chatbot-toggle maintains its size and does not cause layout shifts */
+.chatbot-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #007bff;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.chatbot-toggle img {
+    width: 30px;
+    height: 30px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .chatbot-window {
+        width: 90%;
+        height: 60%;
+    }
+
+    .chatbot-toggle {
+        width: 50px;
+        height: 50px;
+    }
+
+    .chatbot-toggle img {
+        width: 25px;
+        height: 25px;
+    }
+
+    .chatbot-header h2 {
+        font-size: 1em;
+    }
+
+    .chatbot-input button {
+        padding: 8px 12px;
+    }
+}
+
+/* Optional: Style for images within messages to prevent overflow */
+.message img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
+/* Add these to your existing CSS file */
+
+/* Dark mode styles */
+[data-theme="dark"] {
+    background: linear-gradient(135deg, #1a1a1a, #2d2d2d);
+}
+
+[data-theme="dark"] .chatbot-window {
+    background: #2d2d2d;
+    color: #ffffff;
+}
+
+[data-theme="dark"] .chatbot-messages {
+    background: #1a1a1a;
+}
+
+[data-theme="dark"] .bot-message {
+    background: #383838;
+    color: #ffffff;
+}
+
+[data-theme="dark"] .user-message {
+    background: #1f9091;
+}
+
+[data-theme="dark"] .chatbot-input {
+    background: #2d2d2d;
+    border-top-color: #383838;
+}
+
+[data-theme="dark"] .chatbot-input input {
+    background: #383838;
+    border-color: #4a4a4a;
+    color: #ffffff;
+}
+
+[data-theme="dark"] .chatbot-input input::placeholder {
+    color: #999;
+}
+
+/* Theme toggle button styles */
+.theme-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 8px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background: #ffffff;
+    border: 2px solid #ddd;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+}
+
+[data-theme="dark"] .theme-toggle {
+    background: #383838;
+    border-color: #4a4a4a;
+    color: #ffffff;
+}
+
+/* Message content styling */
+.message p {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.message ul {
+    margin: 8px 0;
+    padding-left: 20px;
+}
+
+.message li {
+    margin: 4px 0;
+}
+
+.timestamp {
+    font-size: 0.8em;
+    color: #ccc;
+    display: block;
+    margin-top: 5px;
+}
+
+[data-theme="dark"] .timestamp {
+    color: #ccc;
+}
+
+/* static/css/styles.css */
+
+/* Existing styles... */
+
+.message p {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.message ul {
+    margin: 8px 0;
+    padding-left: 20px;
+}
+
+.message li {
+    margin: 4px 0;
+}
+
+.message strong {
+    font-weight: bold;
+}
+
+.message em {
+    font-style: italic;
+}
+/* Better line-height for readability */
+.message p {
+    margin-bottom: 8px;
+    line-height: 1.6; /* Increase line-height for better readability */
+    white-space: pre-wrap; /* Preserve line breaks from the response text */
+}
+
+/* Add padding and margin for the list items */
+.message ul {
+    margin: 8px 0;
+    padding-left: 20px;
+}
+
+.message li {
+    margin: 4px 0;
+}
+
+/* Ensure that messages wrap correctly */
+.message {
+    word-wrap: break-word; /* Wrap long words */
+    overflow-wrap: break-word;
+}
+/* Hide the theme toggle button on mobile devices */
+@media (max-width: 600px) {
+    .chatbot-toggle {
+        display: none!important;
+    }
+    .close-btn {
+        display: none!important; 
+    }
+}
+footer p {
+ font-size:10px;
+ padding-top: 10px;
+ padding-bottom:10px;
+ margin:0 auto!important;
+ padding-left: 20px;
+}
+/* Add these styles to your existing CSS file */
+
+/* Enhanced Bot Message Styling */
+.bot-message {
+    background: linear-gradient(145deg, #ffffff, #f0f0f0);
+    box-shadow: 5px 5px 10px #d9d9d9,
+                -5px -5px 10px #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 100%;
+    margin: 15px 0;
+}
+
+/* Heading for sections */
+.bot-message h3 {
+    color: #1f9091;
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+/* List styling */
+.bot-message ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.bot-message li {
+    position: relative;
+    padding: 10px 15px;
+    margin: 8px 0;
+    background: rgba(31, 144, 145, 0.1);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.bot-message li:hover {
+    background: rgba(31, 144, 145, 0.15);
+    transform: translateX(5px);
+}
+
+/* Parameter highlighting */
+.parameter {
+    color: #1f9091;
+    font-weight: 600;
+}
+
+.example {
+    color: #666;
+    font-style: italic;
+    margin-left: 5px;
+}
+
+/* Important notes */
+.important-note {
+    background: rgba(255, 193, 7, 0.15);
+    border-left: 4px solid #ffc107;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+/* Dark mode adjustments */
+[data-theme="dark"] .bot-message {
+    background: linear-gradient(145deg, #2d2d2d, #383838);
+    box-shadow: 5px 5px 10px #1a1a1a,
+                -5px -5px 10px #2d2d2d;
+}
+
+[data-theme="dark"] .bot-message li {
+    background: rgba(31, 144, 145, 0.2);
+}
+
+[data-theme="dark"] .parameter {
+    color: #3fd5d6;
+}
+
+[data-theme="dark"] .example {
+    color: #999;
+}
+
+[data-theme="dark"] .important-note {
+    background: rgba(255, 193, 7, 0.1);
+}

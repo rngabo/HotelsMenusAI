@@ -1,0 +1,15 @@
+2024-11-14 21:57:16,636 - __main__ - ERROR - OpenAI API error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sksk-pro**********************************************************************************************************************************************************yKUA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+Traceback (most recent call last):
+  File "/home/richard/APPS/TEST/OPENAI/chatbot/app.py", line 73, in get_response
+    response = client.chat.completions.create(
+  File "/home/richard/.local/lib/python3.10/site-packages/openai/_utils/_utils.py", line 275, in wrapper
+    return func(*args, **kwargs)
+  File "/home/richard/.local/lib/python3.10/site-packages/openai/resources/chat/completions.py", line 829, in create
+    return self._post(
+  File "/home/richard/.local/lib/python3.10/site-packages/openai/_base_client.py", line 1278, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "/home/richard/.local/lib/python3.10/site-packages/openai/_base_client.py", line 955, in request
+    return self._request(
+  File "/home/richard/.local/lib/python3.10/site-packages/openai/_base_client.py", line 1059, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sksk-pro**********************************************************************************************************************************************************yKUA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}

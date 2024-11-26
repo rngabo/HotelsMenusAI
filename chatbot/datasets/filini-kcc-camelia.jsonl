@@ -1,0 +1,229 @@
+{"hotel": "Filini", "category": "BREADS", "item_name": "Bruschetta alla Romana", "description": "Tomato, onion, basil, garlic and olive oil", "labels": ["V"], "price": 3600, "currency": "Rwf"}
+{"hotel": "Filini", "category": "NIBBLES", "item_name": "Bowl of crispy young squid", "description": "Marjoram aioli and roasted garlic focaccia", "price": 6700, "currency": "Rwf"}
+{"hotel": "Filini", "category": "NIBBLES", "item_name": "Filini Chef’s Salad", "description": "Mixed green salad with avocado, cherry, chicken, and lemon emulsion", "price": 8500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "NIBBLES", "item_name": "Classico Minestrone Soup served with Focaccia", "description": "Traditional Italian vegetable soup with pasta", "labels": ["C"], "price": 6500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "FAMOUS CARNAROLI RISOTTOS", "item_name": "Risotto Parmigiana", "description": "Forest mushroom, truffle oil, and parmesan cheese", "labels": ["V"], "price": 15500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PLANKS", "item_name": "Tagliere Toscano", "description": "Italian cold cuts, grilled focaccia, olives, tomato tapenade", "labels": ["H"], "price": 17000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PLANKS", "item_name": "Formaggi Misti", "description": "Imported Italian cheese, carta di musica, walnuts, and honey", "price": 15000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PASTA CLUB", "item_name": "Spaghetti con Calamari e Gamberi", "description": "Spaghetti with calamari, shrimps, garlic, white wine, and parsley", "labels": ["A", "C"], "price": 12500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PASTA CLUB", "item_name": "Farfalle al Salmone", "description": "Smoked salmon tossed with chopped onion, white wine, and crushed black pepper in contemporary pink sauce", "labels": ["H"], "price": 14000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PASTA CLUB", "item_name": "Tagliatelle Bolognese", "description": "A rich and properly simmered Bolognese made of beef", "price": 11000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PASTA CLUB", "item_name": "Gnocchi di Patate al Granchio", "description": "Homemade potato dumplings with crab meat, cherry tomatoes, and broad beans", "labels": ["A"], "price": 16000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PASTA CLUB", "item_name": "Lasagna al Forno", "description": "Fine layers of fresh pasta sheets, beef meat ragu, and Parmesan béchamel", "labels": ["C"], "price": 13500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PIZZA", "item_name": "Pollo", "description": "Tomatoes, mozzarella, sautéed chicken, fresh basil, drizzled with olive oil", "price": 11500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PIZZA", "item_name": "Margherita", "description": "Tomatoes, mozzarella, and basil", "labels": ["V"], "price": 9500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PIZZA", "item_name": "Salami", "description": "Tomatoes, mozzarella, and Salami Milano", "price": 12000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PIZZA", "item_name": "Pizza Tonno e Cipolle", "description": "Tomatoes, mozzarella, canned tuna, onion, chili flakes", "price": 11500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "PIZZA", "item_name": "Funghi", "description": "Tomatoes, mozzarella, white button and forest mushrooms, Taleggio cheese", "price": 11800, "currency": "Rwf"}
+{"hotel": "Filini", "category": "MAINS", "item_name": "Tilapia from Lake Kivu", "description": "Fresh fillet of tilapia, pan-fried, baked onion, and gremolata", "labels": ["C"], "price": 14500, "currency": "Rwf"}
+{"hotel": "Filini", "category": "MAINS", "item_name": "Filetto di Salmone", "description": "Served with tagliatelle of grilled zucchini, cherry tomatoes, and rocket", "labels": ["H"], "price": 25000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "MAINS", "item_name": "Filetto di Manzo al Pepe Verde", "description": "Beef fillet with green peppercorn sauce, snow peas, and vegetable beef jus", "labels": ["A"], "price": 17000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "MAINS", "item_name": "Chicken Diavola", "description": "Tender pieces of chicken marinated in garlic, chili, and thyme olive oil", "price": 13000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "MAINS", "item_name": "Rack of Lamb", "description": "Scented with Mediterranean herbs, seasonal vegetables, new potatoes, red wine demi-glace", "price": 29000, "currency": "Rwf"}
+{"hotel": "Filini", "category": "DOLCI", "item_name": "Torte al Cioccolato", "description": "Creamy chocolate cake with coffee, Amarula, and sabayon", "price": 5900, "currency": "Rwf"}
+{"hotel": "Filini", "category": "DOLCI", "item_name": "Tiramisu", "description": "Classic coffee tiramisu", "labels": ["A"], "price": 6800, "currency": "Rwf"}
+{"hotel": "Filini", "category": "DOLCI", "item_name": "Affogato", "description": "Vanilla ice cream with lukewarm espresso ristretto", "price": 5800, "currency": "Rwf"}
+{"hotel": "Filini", "category": "DOLCI", "item_name": "Italian Artisan Ice Cream", "description": "3 scoops of ice cream flavors of the day", "price": 5600, "currency": "Rwf"}
+{"hotel": "Filini", "category": "DOLCI", "item_name": "Macedonia di Frutta", "description": "Fresh fruit salad in spiced syrup, served with lemon and mint sorbet", "labels": ["H", "V"], "price": 5600, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Garden Salad", "description": "Grilled vegetables, avocado, toasted pumpkin seeds, lemon emulsion, balsamic syrup", "labels": ["H", "V", "Vegan"], "price": 8000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Chopped Greek Buddha Bowl", "description": "Boiled egg, home-smoked salmon", "labels": ["H"], "price": 15500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Mozzarella Tomato and Avocado Salad", "description": "Arugula, bruschetta, balsamic reduction", "labels": ["H", "V"], "price": 11000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Caesar Salad (Classic)", "description": "Classic Caesar salad", "labels": ["C", "H", "V"], "price": 11000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Caesar Salad with Chicken & Bacon", "description": "Caesar salad with chicken and bacon", "labels": ["C", "H"], "price": 14000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Samosas (Beef)", "description": "Served with mint & coriander mild spicy yogurt dip", "price": 7500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Samosas (Vegetable)", "description": "Served with mint & coriander mild spicy yogurt dip", "labels": ["V"], "price": 6500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Spring Rolls (Chicken)", "description": "Vietnamese dipping sauce", "price": 7500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Spring Rolls (Vegetable)", "description": "Vietnamese dipping sauce", "labels": ["V"], "price": 6500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Ikirungo Basted Chicken Wings", "description": "Monkey gland sauce, French fries", "price": 8000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "STARTERS", "item_name": "Crisp Fried Calamari", "description": "Tartar sauce, rustic fries", "price": 13000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SOUPS", "item_name": "Cream of Mushroom", "description": "With balsamic onions, truffle essence, and focaccia toast", "labels": ["V"], "price": 9000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SOUPS", "item_name": "Soup of the Day with Matching Accessories (Vegetarian)", "labels": ["V"], "price": 8000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SOUPS", "item_name": "Soup of the Day with Matching Accessories", "price": 6500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "PASTA, PIZZA", "item_name": "Penne Pomodoro", "description": "Tomato sauce with basil and parmesan", "labels": ["V"], "price": 10000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "PASTA, PIZZA", "item_name": "Spaghetti Bolognese", "description": "Beef in a hearty tomato sauce", "price": 15000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "PASTA, PIZZA", "item_name": "Tagliatelle Alfredo", "description": "Parmesan cream sauce with mushroom and chicken", "price": 15000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SANDWICHES & BURGERS", "item_name": "Beef Dip Sandwich", "description": "Roast beef in baguette with caramelized onion, gherkin, Dijonaise, served with beef dipping sauce and rustic fries", "labels": ["C"], "price": 15000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SANDWICHES & BURGERS", "item_name": "Smoked Salmon Toast", "description": "Slices of smoked Norwegian salmon, green horseradish cream, green herbs, crispy lettuce, lemon on toasted white bread", "labels": ["H"], "price": 14000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SANDWICHES & BURGERS", "item_name": "Club Salad Sandwich", "description": "Roasted breast of chicken, beef bacon, egg, lettuce, tomato, and avocado", "labels": ["C"], "price": 15000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SANDWICHES & BURGERS", "item_name": "Iconic Burger", "description": "Minced beef or chicken fillet in a bun with caramelised cheese, tomato, onion rings, crispy lettuce, signature burger sauce, gherkins, and rustic chips", "labels": ["C"], "price": 15000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "MAINS", "item_name": "Batter Fried Tilapia", "description": "Rustic fries or salad, tartar sauce", "price": 16000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "MAINS", "item_name": "Pan Fried Salmon Fillet", "description": "Spinach and peas, potato, lemon butter sauce", "labels": ["H"], "price": 30000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "MAINS", "item_name": "Gremolata Roasted Chicken Roulade", "description": "Market vegetables and mushroom sauce", "labels": ["H"], "price": 15000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "MAINS", "item_name": "Steak Frites", "description": "250g beef tenderloin with French tomato salad, black pepper sauce, and rustic fries", "labels": ["A"], "price": 22000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "MAINS", "item_name": "Slow Braised Lamb Shank", "description": "Creamed mash potato, rosemary & garlic jus", "labels": ["A", "C"], "price": 35000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "MAINS", "item_name": "Home Grown Eggplant Parmigiana", "description": "Eggplant with fresh basil, mozzarella baked in oven with parmesan cheese and tomato sauce", "labels": ["V"], "price": 13000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "MAINS", "item_name": "Vegetarian Tikka Masala", "description": "Tomato gravy, cashew nuts, chapati, and steamed basmati rice", "labels": ["V"], "price": 12500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "MAINS", "item_name": "Chicken Tikka Masala", "description": "Tomato gravy, cashew nuts, chapati, and steamed basmati rice", "price": 15000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SIDE DISHES", "item_name": "Side Salad", "price": 3500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SIDE DISHES", "item_name": "Steamed Basmati Rice", "price": 4000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SIDE DISHES", "item_name": "Creamed Mash Potato", "price": 4000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SIDE DISHES", "item_name": "Rustic Fries", "price": 3500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SIDE DISHES", "item_name": "Fried Mizuzu", "price": 4000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SIDE DISHES", "item_name": "Market Vegetables", "price": 4000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "SIDE DISHES", "item_name": "Buttered Spinach and Peas", "price": 4000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "DESSERT", "item_name": "Tiramisu", "description": "Classic Rwandan coffee tiramisu", "labels": ["A", "C"], "price": 8500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "DESSERT", "item_name": "Black Forest Gateaux", "description": "Cherries, whipped cream, dark chocolate, served with strawberry coulis", "price": 8000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "DESSERT", "item_name": "Chocolate Fudge Brownie", "description": "Topped with white chocolate ganache, strawberry coulis, and caramelised walnuts", "price": 8000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "DESSERT", "item_name": "Warm Pineapple Pie", "description": "Butterscotch custard", "price": 8000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "DESSERT", "item_name": "Seasonal Fresh Fruits of Rwanda", "description": "Selected by ripeness and cut on order", "labels": ["H"], "price": 8000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Cream of Mushroom", "description": "With balsamic onions, truffle essence, and focaccia toast", "labels": ["V"], "price": 9000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Caesar Salad (Classic)", "description": "Classic Caesar salad", "labels": ["C", "V"], "price": 11000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Caesar Salad with Chicken & Bacon", "description": "Caesar salad with chicken and bacon", "labels": ["C"], "price": 14000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Samosas (Beef)", "description": "Served with mint & coriander mild spicy yogurt dip", "price": 7500, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Samosas (Vegetable)", "description": "Served with mint & coriander mild spicy yogurt dip", "labels": ["V"], "price": 6500, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Club Salad Sandwich", "description": "Roasted breast of chicken, beef bacon, egg, lettuce, tomato, and avocado", "labels": ["C"], "price": 15000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Iconic Burger", "description": "Minced beef or chicken fillet in a bun with caramelised cheese, tomato, onion rings, crispy lettuce, signature burger sauce, gherkins, and rustic chips", "labels": ["C"], "price": 15000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Batter Fried Tilapia", "description": "Rustic fries or salad, tartar sauce", "price": 16000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Chicken Diavola", "description": "Tender pieces of chicken marinated in garlic, chilli, and thyme olive oil", "labels": ["A"], "price": 18000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Steak Frites", "description": "250g beef tenderloin with French tomato salad, black pepper sauce, and rustic fries", "labels": ["A"], "price": 22000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Vegetarian Tikka Masala", "description": "Tomato gravy, cashew nuts, chapati, and steamed basmati rice", "labels": ["V"], "price": 12500, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Chicken Tikka Masala", "description": "Tomato gravy, cashew nuts, chapati, and steamed basmati rice", "price": 15000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "NIGHT NIGHT", "item_name": "Chocolate Fudge Brownie", "description": "Topped with white chocolate ganache, strawberry coulis, and caramelised walnuts", "price": 8000, "currency": "Rwf", "availability": "23:00 - 06:00"}
+{"hotel": "Kcc hotel", "category": "FROM FILINI", "item_name": "Pizza Margherita", "description": "Fresh tomato sauce, mozzarella cheese, and fresh basil", "labels": ["V"], "price": 11500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "FROM FILINI", "item_name": "Pizza al Pollo", "description": "Fresh tomato sauce, mozzarella cheese, chicken, fresh basil, and drizzled with olive oil", "price": 13500, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "FROM FILINI", "item_name": "Pizza Salame", "description": "Fresh tomato sauce, mozzarella cheese, and salame Milano", "price": 14000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "CHILDREN", "item_name": "Golden Fried Fish Fingers", "description": "Batter fried fish fingers served with fries and tartar sauce", "price": 7000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "CHILDREN", "item_name": "Pizza al Pollo", "description": "Fresh tomato sauce, mozzarella cheese, sautéed chicken, and fresh basil", "price": 7000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "CHILDREN", "item_name": "Spaghetti Bolognese", "description": "Meat sauce made from 100% beef", "price": 7000, "currency": "Rwf"}
+{"hotel": "Kcc hotel", "category": "ROOM SERVICE BREAKFAST MENU", "item_name": "Rwandan Breakfast", "description": "Classic goat stew with potato, banana, peas, and coriander; assorted pastries; freshly cut local fruits; juice or milk of your choice; African tea or coffee", "price": 16000, "currency": "Rwf", "availability": "06:30 - 10:30"}
+{"hotel": "Kcc hotel", "category": "ROOM SERVICE BREAKFAST MENU", "item_name": "Full English Breakfast", "description": "Chicken sausages, baked beans, tomato; fried egg, potato, bacon, and mushrooms; toast and assorted pastries; juice of your choice; African tea or coffee", "price": 20000, "currency": "Rwf", "availability": "06:30 - 10:30"}
+{"hotel": "Kcc hotel", "category": "ROOM SERVICE BREAKFAST MENU", "item_name": "Continental Breakfast", "description": "Selection of home-made breads, butter, and jam; cheese and cold cuts; eggs of your choice; Bircher muesli with Greek yogurt; assorted pastries; freshly cut local fruits; juice of your choice; African tea or coffee", "price": 18000, "currency": "Rwf", "availability": "06:30 - 10:30"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Passion", "description": "Fresh juice", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Prune", "description": "Fresh juice", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Cucumber", "description": "Fresh juice", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Carrot", "description": "Fresh juice", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Watermelon", "description": "Fresh juice", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Papaya", "description": "Fresh juice", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Pineapple", "description": "Fresh juice", "price": 4000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Camellia Cocktail Juice", "description": "Fresh juice", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Lemon", "description": "Fresh juice", "price": 4000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Mango", "description": "Fresh juice", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Apple", "description": "Fresh juice", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Orange", "description": "Fresh juice", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Prune Concentrate", "description": "Fresh juice", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Fresh Juices", "item_name": "Create Your Own Fruit Juice", "description": "Fresh juice", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Avocado", "description": "A mix of avocado and milk", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Corniche", "description": "Strawberry, mango, avocado", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Diana", "description": "Mango vanilla shake with fruit pieces", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Galaxy", "description": "Mango vanilla shake with honey and fruit", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "King Cocktail", "description": "A mix of all fruits, milk topped with cream", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Mango Freeze", "description": "Concentrated mango topped with cream", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Rizofa Thayalani", "description": "Mango, apple, papaya vanilla shake", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Shokrin", "description": "Mango, strawberry ice cream, vanilla shake with fruit", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Strawberry Breeze", "description": "Concentrated strawberry topped with cream", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Camellia Shakes", "item_name": "Vanilla Shake", "description": "Camellia Shake", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Camellia Shakes", "item_name": "Chocolate Shake", "description": "Camellia Shake", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Camellia Shakes", "item_name": "Pineapple Shake", "description": "Camellia Shake", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Camellia Shakes", "item_name": "Strawberry Shake", "description": "Camellia Shake", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Camellia Shakes", "item_name": "Banana Shake", "description": "Camellia Shake", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Camellia Shakes", "item_name": "Caramel Shake", "description": "Camellia Shake", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Special Drinks", "item_name": "Virgin Mojito", "description": "Virgin Mojito experience", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Breakfast", "item_name": "Mini Breakfast", "description": "Two eggs omelette on toasted bread served with fried potatoes & sausage", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Kids Menu", "item_name": "Spaghetti Meatballs", "description": "Quarter of a meatball topped on a slight portion of spaghetti and cheese", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Kids Menu", "item_name": "Chicken Strips", "description": "Soya sauce chicken stir-fry with vegetables in julienne style and chips", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Kids Menu", "item_name": "Mini Burger Slider", "description": "2 pieces mini burgers served with chips and garnish salad", "price": 6500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Sandwiches", "item_name": "Mushroom Avocado Spinach Baguette", "description": "Local fresh mushroom fried with chopped sautéed spinach, onions, garlic, and celery", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Sandwiches", "item_name": "Camellia Egg Cheese Baguette", "description": "Fried egg stuffed in a baguette with lettuce, tomato, cucumber, onions, cocktail sauce drizzle, served with chips", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Sandwiches", "item_name": "Tramezzini Chicken Cheese", "description": "Focaccia bread filled with chicken, melted cheese, sweet chili mayo, served with chips", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Sandwiches", "item_name": "Croque Madame", "description": "2 layers of sliced bread stuffed with eggs and cheese", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Sandwiches", "item_name": "Croque Monsieur", "description": "2 layers of sliced bread stuffed with jambon and cheese", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Sandwiches", "item_name": "Camellia Nice Face", "description": "3 layers of sliced bread stuffed with tomato, onions, fried eggs, chicken escalope, and cheese", "price": 6500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Burgers", "item_name": "Plain Beef/Chicken/Fish Burger", "description": "Homemade burger stuffed with lettuce, onions, tomatoes, cheese only", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Burgers", "item_name": "Camellia Vegetable Burger", "description": "Homemade vegetable burger stuffed with lettuce, onions, tomatoes, served with chips", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Burgers", "item_name": "Camellia Cheese Beef Burger", "description": "Homemade beef burger stuffed with lettuce, onions, tomatoes, and cheese, served with chips", "price": 6500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Burgers", "item_name": "Chicken Cheese Burger", "description": "Chicken made burger style on lettuce, tomato, and onions, served with chips", "price": 6500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Burgers", "item_name": "Camellia Fish Burger", "description": "Homemade fish burger stuffed with lettuce, onions, tomatoes, and cheese, served with chips", "price": 6500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Burgers", "item_name": "Camellia King Beef/Chicken/Fish Burger", "description": "A double burger style of your choice stuffed with lettuce, onions, tomatoes, and cheese, served with chips", "price": 9000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Espresso Single", "description": "Brewed & Special", "price": 1500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Black Coffee", "description": "Brewed & Special", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "A Pot of Milk", "description": "Brewed & Special", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Espresso Double", "description": "Brewed & Special", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Espresso Macchiato", "description": "Brewed & Special", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "French Press", "description": "Brewed & Special", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Espresso Creamy", "description": "Brewed & Special", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Americano", "description": "Brewed & Special", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Café Latte", "description": "Brewed & Special", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Cappuccino", "description": "Brewed & Special", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Café Mocha", "description": "Brewed & Special", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Lemon Cappuccino", "description": "Brewed & Special", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Caramel Macchiato", "description": "Brewed & Special", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Vanilla Latte", "description": "Brewed & Special", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Hot Chocolate", "description": "Brewed & Special", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "Camellia African Coffee", "description": "Brewed & Special", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Brewed & Special", "item_name": "White with Milk", "description": "Brewed & Special", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Iced Americano", "description": "Iced Frappes", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Iced Tea", "description": "Iced Frappes", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Iced Spiced Tea", "description": "Iced Frappes", "price": 4000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Iced Café Latte", "description": "Iced Frappes", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Iced Vanilla Latte", "description": "Iced Frappes", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Iced Café Mocha", "description": "Iced Frappes", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Iced African Coffee", "description": "Iced Frappes", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Caramel Frappe", "description": "Iced Frappes", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Vanilla Frappe", "description": "Iced Frappes", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "Mocha Frappe", "description": "Iced Frappes", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Iced Frappes", "item_name": "White Mocha Frappe", "description": "Iced Frappes", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Black Tea", "price": 2000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Ginger Tea", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Mint Tea", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Lemon Tea", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Green Tea", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Masala Tea", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Umuryagiryal", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Umuravumba", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Umwenye Tea", "price": 2500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Hibiscus Tea", "price": 3000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Spiced Tea", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "African Tea", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Teas", "item_name": "Milk Nido Tea", "price": 4000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Breakfast", "item_name": "Camellia Executive Breakfast", "description": "Quick service package of beef or lamb and eggs served with 2 mini eggs on toast, French breakfast potatoes, caramel mushroom omelette on banana bread, and fruit slices aside", "price": 8000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Breakfast", "item_name": "Spanish Omelette", "description": "2 eggs omelette with diced onions, tomatoes, green pepper, served with toasted bread", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Breakfast", "item_name": "Chapati Omelette", "description": "Homemade chapati rolled with 2 eggs omelette, served with chips and salad", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Breakfast", "item_name": "Special Omelette", "description": "3 eggs omelette with beef/beef ham/cheese slices and vegetables in julienne style", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks & Desserts", "item_name": "Toasted Bread", "price": 1000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks & Desserts", "item_name": "Meatball", "price": 1000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks & Desserts", "item_name": "Chapati", "price": 1000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks & Desserts", "item_name": "Beef Samosa", "price": 1000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks & Desserts", "item_name": "Sweet Pancake", "price": 2000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks & Desserts", "item_name": "Special Pancake", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Ice Cream", "item_name": "Strawberry Ice Cream", "price": 2000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Ice Cream", "item_name": "Chocolate Ice Cream", "price": 2000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Ice Cream", "item_name": "Vanilla Ice Cream", "price": 2000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Local Fresh Fruits", "item_name": "Simple Fruit", "description": "3 pieces of fresh fruit", "price": 3500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Local Fresh Fruits", "item_name": "Fruit Macedoine", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Local Fresh Fruits", "item_name": "Fruit Macedoine Creamy", "price": 6500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Local Fresh Fruits", "item_name": "Camellia Fruitcut", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Soups", "item_name": "Minestrone Chicken Soup", "description": "A light freshly made chicken broth cooked from chicken stock with dices of spaghetti, onions, carrots, green pepper, flavored with coriander and 2 bread rolls", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Soups", "item_name": "Minestrone Fish Soup", "description": "A cream of fish velouté with fish fillet, diced spaghetti, onion, green pepper, flavored by coriander, served hot with 2 bread rolls", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Soups", "item_name": "Camellia Local Mushroom Soup", "description": "Local mushrooms sautéed with onions and garlic, flavored by celery leaves, and finished with fresh cream, served hot with 2 bread rolls", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Soups", "item_name": "Vegetable Soup", "description": "A mix of oil-free and well-seasoned spinach blend thickened with natural celery leaves, served hot with 2 bread rolls", "price": 4500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Soups", "item_name": "Mixed Soup", "description": "A mix of two of your favored soups served with 2 bread rolls", "price": 5000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Soups", "item_name": "Beef/Chicken/Fish Broth", "description": "A clear beef, chicken, or fish stock cooked with tricolor vegetable brunoise, flavored with chives, bay leaves, leeks, and celery, served hot with 2 bread rolls", "price": 4000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Soups", "item_name": "Carrot & Ginger Soup", "description": "A thick and creamy soup made from vegetable stock, carrot, finished with fresh cream and celery, then ginger, garnished with fried carrot peels, served hot with 2 bread rolls", "price": 4000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Salads", "item_name": "Fresh Garden Mix Salad", "description": "Lettuce base with tomato wedges, cucumber, onions, avocado, carrots, green pepper, boiled eggs, cheese, and a vinaigrette sauce", "price": 4000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Salads", "item_name": "American Garden Salad", "description": "Slices of cucumber, pineapple, avocado, tomato wedges, lettuce, boiled egg, poached chicken, cheese, and honey mustard sauce", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Salads", "item_name": "Beef Strips Salad", "description": "Beef strips in garlic, sesame seeds, dark soya sauce on a bed of lettuce, tomatoes, avocado, onion rings, cucumber, carrot, boiled egg, and vinaigrette sauce", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Salads", "item_name": "Camellia Chef Salad", "description": "Beef ham on tomato, onions, cucumber, grated carrot, garnished with boiled egg, cheese, and served with mayo vinaigrette", "price": 5500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Main Courses", "item_name": "Camellia Hotpot", "description": "Spiced traditional food. A mix of potatoes cooked in gravy and a choice of beef, chicken, or fish in hot spices", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Main Courses", "item_name": "Liver Stew/Fried", "description": "Brown fresh beef liver braised in sweet-sour sauce, served with 2 main and 1 seasonal vegetable from accompaniment below", "price": 8000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Main Courses", "item_name": "Stew Beef/Chicken/Fish", "description": "Brown fresh beef/chicken/fish braised in tomato sauce, served with 2 main and 1 seasonal vegetable from accompaniment below", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Main Courses", "item_name": "Stroganoff Beef/Chicken/Fish", "description": "Stir-fry beef/chicken/fish strips with julienne vegetables braised in white sauce finished with rich cream, served with 2 main and 1 seasonal vegetable from accompaniment below", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Main Courses", "item_name": "Quarter Chicken", "description": "Grilled and served in sauce, served with 2 main and 1 seasonal vegetable from accompaniment below", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Main Courses", "item_name": "Camellia Beef Steak", "description": "Camellia grilled beef steak style with a choice of dramatic sauce, served with 2 main and 1 seasonal vegetable from accompaniment below", "price": 10000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Main Courses", "item_name": "Fish Fillet", "description": "A big portion of grilled fish fillet in hot pepper sauce, served with 2 main and 1 seasonal vegetable accompaniment", "price": 10000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Mexican Dishes", "item_name": "Quesadillas Beef/Chicken/Fish", "description": "Chapati with cheese and vegetables, choice of mayo, guacamole, and salsa", "price": 8000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Mexican Dishes", "item_name": "Fajita Platter Beef/Chicken/Fish", "description": "Grilled vegetables, beef or chicken, served with fried beans, spiced rice, oregano, and salsa", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Rice Dishes", "item_name": "Pilau", "description": "Brown spiced rice in masala sauce with mix of vegetables and choice of beef, chicken, or fish", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Curry Dishes", "item_name": "Vegetable Curry Dish", "description": "Vegetables in curry sauce served with brown spiced rice, chapati, or chips and salsa", "price": 7000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Curry Dishes", "item_name": "Beef Curry Dish", "description": "Beef goulash with vegetable cubes in curry sauce, served with spiced rice, chapati, or chips and salsa", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Curry Dishes", "item_name": "Chicken Curry Dish", "description": "Chicken breast cubes with vegetable cubes in curry sauce, served with spiced rice, chapati, or chips and salsa", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Curry Dishes", "item_name": "Fish Curry Dish", "description": "Fish cubes with vegetable cubes in curry sauce, served with spiced rice, chapati, or chips and salsa", "price": 8500, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks", "item_name": "French Fries Salad", "description": "Classic chips or French fries plate with garnish salad, served with mayonnaise and ketchup", "price": 4000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks", "item_name": "Chicken Gizzards", "description": "Sautéed chicken gizzards in garlic with julienne vegetables, served with chips", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks", "item_name": "Camellia Chapati Wrap", "description": "Chapati roll stuffed with beef, chicken, fish, or veggies, served with chips and salad", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks", "item_name": "Fried Chicken Wings", "description": "Home-style marinated un-deboned fried chicken wings (6 pieces), served with chips and salad", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks", "item_name": "Fish Fingers", "description": "4 crumbed deep-fried fish fingers served with chips", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks", "item_name": "Chicken Nuggets", "description": "3 deep-fried coated flakes of chicken served with chips and salad", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Snacks", "item_name": "Beef Sausage", "description": "Deep-fried sausage served with chips and salad", "price": 6000, "currency": "Rwf"}
+{"hotel": "Camelia", "category": "Pasta", "item_name": "Spaghetti Bolognese", "description": "Herbed and spiced minced meat Bolognese sauce gratinated on spaghetti topped with cheese", "price": 6000, "currency": "Rwf"}
+
+
